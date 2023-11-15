@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MazeGenerator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\OneDrive - FH OOe\1. Semester\Game Development\RacingGame\Intermediate\Build\Win64\x64\RacingGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\OneDrive - FH OOe\1. Semester\Game Development\RacingGame\Plugins\MazeGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\MazeGenerator\Module.MazeGenerator.cpp.obj"
+"D:\OneDrive - FH OOe\1. Semester\Game Development\RacingGame\Plugins\MazeGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\MazeGenerator\Default.rc2.res"
+/OUT:"D:\OneDrive - FH OOe\1. Semester\Game Development\RacingGame\Plugins\MazeGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\MazeGenerator\UnrealEditor-MazeGenerator.lib"
